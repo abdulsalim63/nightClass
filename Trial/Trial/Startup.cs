@@ -12,6 +12,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
 using Trial.Models;
+using Microsoft.AspNetCore.Http;
+using Trial.Middleware;
 
 namespace Trial
 {
@@ -44,6 +46,8 @@ namespace Trial
             }
 
             //app.UseHttpsRedirection();
+
+            app.UseMyMiddleware();
 
             app.UseRouting();
 
