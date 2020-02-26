@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E2974461-82CC-4506-A5B5-9E59C232508D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyInjection/Database.cs">
+    <Files>
+      <File FileName="DependencyInjection/Startup.cs" Line="29" Column="118" />
+      <File FileName="DependencyInjection/Database.cs" Line="37" Column="37" />
+      <File FileName="DependencyInjection/Controllers/ContactController.cs" Line="28" Column="39" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DependencyInjection" expanded="True">
+            <Node name="DependencyInjection" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Database.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DependencyInjection PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
