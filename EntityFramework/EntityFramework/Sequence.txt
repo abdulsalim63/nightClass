@@ -1,0 +1,46 @@
+﻿#1 Add Package for Entity Framework (terminal)
+dotnet add package microsoft.entityframeworkcore
+dotnet add package microsoft.entityframeworkcore.design
+dotnet add package npgsql.entityframeworkcore.postgresql
+
+#2 Make Model Class And DbContext
+using microsoft.entityframeworkcore
+class from parnet class (DbContext)
+
+#3 Add Service DbContext
+using microsoft.entityframeworkcore
+using model folder
+
+services.AddDbContext<{Context}>(opt => opt.UseNpgsql("Host=localhost;Username=postgres;Password=docker;Database=sql"));
+
+#4 Install Tools Entity Framework (ef) at terminal
+dotnet tool install --global dotnet-ef
+
+#5 Add migrations and update database
+dotnet ef migrations add {class} -c {classContext}
+dotnet ef database update -c {classContext}
+
+#6 Add Controller
+using Microsoft.AspNetCore.Mvc;
+using {namespace}.{folder};
+class parent : ControllerBase
+
+#7 Build in terminal
+dotnet watch run
+
+
+\\-----------------------------------------------
+Deploy to Heroku
+
+#1 Login to heroku, follow commit path
+#2 add buildpack heroku buildpacks:set jincod/dotnetcore
+#3 git push heroku master
+#4 Configure Add-Ons => Add Add-Ons (Heroku Postgres)
+#5 Back to overview click "Heroku postgres"
+#6 Setting => Database Credentials => View Credentials
+#7 Copy localhost, username, etc to connection string
+#8 In Connection string add "SSL Mode=Require; Trust Server Certificate=true"
+#9 pgcli -h hostHeroku -U usernameHeroku -d databaseHeroku // (passwordHeroku)
+#10 dotnet ef database update
+#11 git add, commit, push
+#12 Heroku Link /path in controller

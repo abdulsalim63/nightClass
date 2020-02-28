@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{AB4349A9-B97C-48E2-A7D2-F217B4DF1D4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityFramework/Startup.cs">
+    <Files>
+      <File FileName="EntityFramework/Controllers/HandphoneController.cs" Line="2" Column="19" />
+      <File FileName="EntityFramework/Controllers/AccesoriesController.cs" Line="9" Column="28" />
+      <File FileName="EntityFramework/Sequence.txt" Line="30" Column="17" />
+      <File FileName="EntityFramework/Startup.cs" Line="32" Column="89" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EntityFramework" expanded="True">
+            <Node name="EntityFramework" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EntityFramework PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
