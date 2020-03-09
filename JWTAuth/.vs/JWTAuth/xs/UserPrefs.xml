@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{F5CE7A68-D606-412D-827F-DD03C9F9145E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JWTAuth/Startup.cs">
+    <Files>
+      <File FileName="JWTAuth/Models/Shop/Model.cs" Line="28" Column="48" />
+      <File FileName="JWTAuth/Startup.cs" Line="45" Column="13" />
+      <File FileName="JWTAuth/Models/RequestValidator.cs" />
+      <File FileName="JWTAuth/Models/PlayerDetail/Validator.cs" />
+      <File FileName="JWTAuth/Models/PlayerDetail/Model.cs" />
+      <File FileName="JWTAuth/Models/PlayerDetail/Controller.cs" Line="48" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JWTAuth" expanded="True">
+            <Node name="JWTAuth" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="PlayerDetail" expanded="True" />
+                <Node name="Shop" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JWTAuth PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

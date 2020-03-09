@@ -1,0 +1,10 @@
+/Users/gigaming/Downloads/nightClass/FunctionalProgramming/FunctionalProgramming/bin/Debug/netcoreapp3.1/FunctionalProgramming.deps.json
+/Users/gigaming/Downloads/nightClass/FunctionalProgramming/FunctionalProgramming/bin/Debug/netcoreapp3.1/FunctionalProgramming.runtimeconfig.json
+/Users/gigaming/Downloads/nightClass/FunctionalProgramming/FunctionalProgramming/bin/Debug/netcoreapp3.1/FunctionalProgramming.runtimeconfig.dev.json
+/Users/gigaming/Downloads/nightClass/FunctionalProgramming/FunctionalProgramming/bin/Debug/netcoreapp3.1/FunctionalProgramming.dll
+/Users/gigaming/Downloads/nightClass/FunctionalProgramming/FunctionalProgramming/bin/Debug/netcoreapp3.1/FunctionalProgramming.pdb
+/Users/gigaming/Downloads/nightClass/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.csprojAssemblyReference.cache
+/Users/gigaming/Downloads/nightClass/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.AssemblyInfoInputs.cache
+/Users/gigaming/Downloads/nightClass/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.AssemblyInfo.cs
+/Users/gigaming/Downloads/nightClass/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.dll
+/Users/gigaming/Downloads/nightClass/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.pdb

@@ -1,7 +1,6 @@
 /Users/gigaming/Downloads/nightClass/EntityFramework/EntityFramework/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/gigaming/Downloads/nightClass/EntityFramework/EntityFramework/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/gigaming/Downloads/nightClass/EntityFramework/EntityFramework/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
-/Users/gigaming/Downloads/nightClass/EntityFramework/EntityFramework/bin/Debug/netcoreapp3.1/EntityFramework
 /Users/gigaming/Downloads/nightClass/EntityFramework/EntityFramework/bin/Debug/netcoreapp3.1/EntityFramework.deps.json
 /Users/gigaming/Downloads/nightClass/EntityFramework/EntityFramework/bin/Debug/netcoreapp3.1/EntityFramework.runtimeconfig.json
 /Users/gigaming/Downloads/nightClass/EntityFramework/EntityFramework/bin/Debug/netcoreapp3.1/EntityFramework.runtimeconfig.dev.json
@@ -36,3 +35,4 @@
 /Users/gigaming/Downloads/nightClass/EntityFramework/EntityFramework/obj/Debug/netcoreapp3.1/EntityFramework.csproj.CopyComplete
 /Users/gigaming/Downloads/nightClass/EntityFramework/EntityFramework/obj/Debug/netcoreapp3.1/EntityFramework.dll
 /Users/gigaming/Downloads/nightClass/EntityFramework/EntityFramework/obj/Debug/netcoreapp3.1/EntityFramework.pdb
+/Users/gigaming/Downloads/nightClass/EntityFramework/EntityFramework/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll

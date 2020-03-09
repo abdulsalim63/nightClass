@@ -1,0 +1,17 @@
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/bin/Debug/netcoreapp3.1/Fundamentals.deps.json
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/bin/Debug/netcoreapp3.1/Fundamentals.runtimeconfig.json
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/bin/Debug/netcoreapp3.1/Fundamentals.runtimeconfig.dev.json
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/bin/Debug/netcoreapp3.1/Fundamentals.dll
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/bin/Debug/netcoreapp3.1/Fundamentals.pdb
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/obj/Debug/netcoreapp3.1/Fundamentals.csprojAssemblyReference.cache
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/obj/Debug/netcoreapp3.1/Fundamentals.MvcApplicationPartsAssemblyInfo.cache
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/obj/Debug/netcoreapp3.1/Fundamentals.AssemblyInfoInputs.cache
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/obj/Debug/netcoreapp3.1/Fundamentals.AssemblyInfo.cs
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/obj/Debug/netcoreapp3.1/Fundamentals.RazorTargetAssemblyInfo.cache
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/obj/Debug/netcoreapp3.1/staticwebassets/Fundamentals.StaticWebAssets.Manifest.cache
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/obj/Debug/netcoreapp3.1/staticwebassets/Fundamentals.StaticWebAssets.xml
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/obj/Debug/netcoreapp3.1/Fundamentals.dll
+/Users/gigaming/Downloads/nightClass/Fundamentals/Fundamentals/obj/Debug/netcoreapp3.1/Fundamentals.pdb

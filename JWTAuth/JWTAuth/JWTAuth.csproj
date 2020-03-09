@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="fluentvalidation.aspnetcore" Version="8.6.2" />
+    <PackageReference Include="mediatr" Version="8.0.1" />
+    <PackageReference Include="mediatr.extensions.microsoft.dependencyinjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.2" />
+    <PackageReference Include="microsoft.entityframeworkcore" Version="3.1.2" />
+    <PackageReference Include="microsoft.entityframeworkcore.design" Version="3.1.2">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="newtonsoft.json" Version="12.0.3" />
+    <PackageReference Include="npgsql.entityframeworkcore.postgresql" Version="3.1.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Models\PlayerDetail\" />
+    <Folder Include="Models\Shop\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="JWTAuth.csproj" />
+  </ItemGroup>
+</Project>

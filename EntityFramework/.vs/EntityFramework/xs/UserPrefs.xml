@@ -1,22 +1,21 @@
 ﻿<Properties StartupConfiguration="{AB4349A9-B97C-48E2-A7D2-F217B4DF1D4A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EntityFramework/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityFramework/Controllers/HandphoneController.cs">
     <Files>
-      <File FileName="EntityFramework/Controllers/HandphoneController.cs" Line="2" Column="19" />
-      <File FileName="EntityFramework/Controllers/AccesoriesController.cs" Line="9" Column="28" />
-      <File FileName="EntityFramework/Sequence.txt" Line="30" Column="17" />
-      <File FileName="EntityFramework/Startup.cs" Line="32" Column="89" />
+      <File FileName="EntityFramework/Sequence.txt" Line="1" Column="47" />
+      <File FileName="EntityFramework/Startup.cs" Line="25" Column="53" />
+      <File FileName="EntityFramework/Models/Customer.cs" Line="17" Column="35" />
+      <File FileName="EntityFramework/Controllers/HandphoneController.cs" Line="18" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EntityFramework" expanded="True">
             <Node name="EntityFramework" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HandphoneController.cs" selected="True" />
               </Node>
-              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>

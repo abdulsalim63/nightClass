@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A55BBC9E-5AAD-4B97-A1D4-E316A129C4D7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fundamentals PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fundamentals/Startup.cs">
+    <Files>
+      <File FileName="Fundamentals/Startup.cs" Line="40" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fundamentals" expanded="True">
+            <Node name="Fundamentals" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -33,6 +33,8 @@ namespace EntityFramework
                 "Password=326fc145ba8f6dbf38d86b06e4cf56884efd96bb7d3efab27b9b836a11316858; Database=d2ea8qbco2rjo;SSL Mode=Require; Trust Server Certificate=true")) ;
             services.AddDbContext<AccesoriesContext>(opt => opt.UseNpgsql("Host=ec2-52-86-33-50.compute-1.amazonaws.com;Username=qleouwkrkjorzd;" +
                 "Password=326fc145ba8f6dbf38d86b06e4cf56884efd96bb7d3efab27b9b836a11316858; Database=d2ea8qbco2rjo;SSL Mode=Require; Trust Server Certificate=true"));
+            services.AddDbContext<CustomerContext>(opt => opt.UseNpgsql("Host=ec2-52-86-33-50.compute-1.amazonaws.com;Username=qleouwkrkjorzd;" +
+                "Password=326fc145ba8f6dbf38d86b06e4cf56884efd96bb7d3efab27b9b836a11316858; Database=d2ea8qbco2rjo;SSL Mode=Require; Trust Server Certificate=true"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

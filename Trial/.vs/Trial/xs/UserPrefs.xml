@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{217D6E59-DD7C-4327-AD91-B2F2D8304682}|Default">
   <MonoDevelop.Ide.ItemProperties.Trial PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Trial/Middleware/Middleware.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trial/Startup.cs">
     <Files>
-      <File FileName="Trial/Startup.cs" Line="61" Column="18" />
-      <File FileName="Trial/Controllers/hofController.cs" Line="62" Column="17" />
-      <File FileName="Trial/Middleware/Middleware.cs" Line="7" Column="6" />
+      <File FileName="Trial/Startup.cs" Line="36" Column="1" />
+      <File FileName="Trial/Controllers/hofController.cs" />
+      <File FileName="Trial/Middleware/Middleware.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Trial" expanded="True">
             <Node name="Trial" expanded="True">
-              <Node name="Middleware" expanded="True">
-                <Node name="Middleware.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Middleware" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>

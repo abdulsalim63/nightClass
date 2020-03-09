@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0781358B-8DDB-455A-B1B9-12C6818812A5}|Default">
+  <MonoDevelop.Ide.ItemProperties.FunctionalProgramming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FunctionalProgramming/Controller/Controller.cs">
+    <Files>
+      <File FileName="FunctionalProgramming/Program.cs" Line="13" Column="51" />
+      <File FileName="FunctionalProgramming/Controller/Controller.cs" Line="12" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunctionalProgramming" expanded="True">
+            <Node name="FunctionalProgramming" expanded="True">
+              <Node name="Controller" expanded="True">
+                <Node name="Controller.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gigaming/Downloads/nightClass/FunctionalProgramming/FunctionalProgramming/Program.cs" relfile="FunctionalProgramming/Program.cs" line="41" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
