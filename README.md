@@ -32,6 +32,3 @@ Koh Indra n Salim Files
 #### [Validator](https://gist.github.com/mprambadi/242a790090e70d7cb78a8b8ac4793d02)
 #### [CQRS](https://gist.github.com/mprambadi/1d1cf6a0b06082ef7d35dbce079379dd)
 #### [Background Services](https://gist.github.com/mprambadi/ce88d8b02e1ccae2552c91cee7f25012)
-
-### Week 6
-#### [Microservices Intro](https://gist.github.com/mprambadi/0b35713ff311ba80eedfbd2e0946e638)

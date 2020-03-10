@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gigaming/Downloads/nightClass/Hangfires/Hangfires/Hangfires.csproj": {}
+  },
+  "projects": {
+    "/Users/gigaming/Downloads/nightClass/Hangfires/Hangfires/Hangfires.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gigaming/Downloads/nightClass/Hangfires/Hangfires/Hangfires.csproj",
+        "projectName": "Hangfires",
+        "projectPath": "/Users/gigaming/Downloads/nightClass/Hangfires/Hangfires/Hangfires.csproj",
+        "packagesPath": "/Users/gigaming/.nuget/packages/",
+        "outputPath": "/Users/gigaming/Downloads/nightClass/Hangfires/Hangfires/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/gigaming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "hangfire.aspnetcore": {
+              "target": "Package",
+              "version": "[1.7.9, )"
+            },
+            "hangfire.core": {
+              "target": "Package",
+              "version": "[1.7.9, )"
+            },
+            "hangfire.postgresql": {
+              "target": "Package",
+              "version": "[1.6.4.1, )"
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "microsoft.entityframeworkcore.design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "newtonsoft.json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "npgsql.entityframeworkcore.postgresql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

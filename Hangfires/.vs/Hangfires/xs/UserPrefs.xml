@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F78001B7-A95E-4F91-AF20-5D9AC3F9FD58}|Default">
+  <MonoDevelop.Ide.ItemProperties.Hangfires PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hangfires/Startup.cs">
+    <Files>
+      <File FileName="Hangfires/Startup.cs" Line="41" Column="32" />
+      <File FileName="Hangfires/Presenter/Controller/CustomerControlle.cs" Line="32" Column="88" />
+      <File FileName="Hangfires/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hangfires" expanded="True">
+            <Node name="Hangfires" expanded="True">
+              <Node name="Application" expanded="True">
+                <Node name="Models" expanded="True">
+                  <Node name="Query" expanded="True" />
+                </Node>
+                <Node name="UseCases" expanded="True">
+                  <Node name="Customers" expanded="True">
+                    <Node name="Command" expanded="True">
+                      <Node name="Create" expanded="True" />
+                    </Node>
+                    <Node name="Queries" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Presenter" expanded="True">
+                <Node name="Controller" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
