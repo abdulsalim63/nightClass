@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{F78001B7-A95E-4F91-AF20-5D9AC3F9FD58}|Default">
   <MonoDevelop.Ide.ItemProperties.Hangfires PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hangfires/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hangfires/appsettings.json">
     <Files>
       <File FileName="Hangfires/Startup.cs" Line="41" Column="32" />
       <File FileName="Hangfires/Presenter/Controller/CustomerControlle.cs" Line="32" Column="88" />
-      <File FileName="Hangfires/appsettings.json" Line="1" Column="1" />
+      <File FileName="Hangfires/appsettings.json" Line="11" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -27,7 +27,7 @@
               <Node name="Presenter" expanded="True">
                 <Node name="Controller" expanded="True" />
               </Node>
-              <Node name="Startup.cs" selected="True" />
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>

@@ -1,1 +1,16 @@
-﻿
+﻿Table Customer :
+id         int          PK
+username   text
+address    text
+created_at timestamp
+updated_at timestamp
+
+Table Order :
+id          int         PK
+customer_id int         FK => Customer.id
+item        text
+price       long
+created_at  timestamp
+updated_at  timestamp
+
+Customer => One-To-Many => Order

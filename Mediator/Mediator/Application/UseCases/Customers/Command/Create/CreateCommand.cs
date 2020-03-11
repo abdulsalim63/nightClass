@@ -1,10 +1,10 @@
 ﻿using System;
-namespace Mediator.Application.UseCases.Customers.Command.Create
+using MediatR;
+using Mediator.Domain.Entities;
+
+namespace Mediator.Application.UseCases.Customers //.Command.Create
 {
-    public class CreateCommand
+    public class CreateCustomerCommand : Customer, IRequest<Customer>
     {
-        public CreateCommand()
-        {
-        }
     }
 }

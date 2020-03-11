@@ -1,10 +1,11 @@
 ﻿using System;
-namespace Mediator.Application.UseCases.Customers.Queries.GetbyId
+using MediatR;
+using Mediator.Domain.Entities;
+
+namespace Mediator.Application.UseCases.Customers //.Queries.GetbyId
 {
-    public class GetbyIdQuery
+    public class GetbyIdCustomerQuery : IRequest<Customer>
     {
-        public GetbyIdQuery()
-        {
-        }
+        public int id { get; set; }
     }
 }
