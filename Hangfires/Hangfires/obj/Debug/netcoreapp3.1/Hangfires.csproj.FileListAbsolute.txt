@@ -1,6 +1,5 @@
 /Users/gigaming/Downloads/nightClass/Hangfires/Hangfires/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/gigaming/Downloads/nightClass/Hangfires/Hangfires/bin/Debug/netcoreapp3.1/appsettings.json
-/Users/gigaming/Downloads/nightClass/Hangfires/Hangfires/bin/Debug/netcoreapp3.1/EmptyJSONFile.json
 /Users/gigaming/Downloads/nightClass/Hangfires/Hangfires/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
 /Users/gigaming/Downloads/nightClass/Hangfires/Hangfires/bin/Debug/netcoreapp3.1/Hangfires.deps.json
 /Users/gigaming/Downloads/nightClass/Hangfires/Hangfires/bin/Debug/netcoreapp3.1/Hangfires.runtimeconfig.json

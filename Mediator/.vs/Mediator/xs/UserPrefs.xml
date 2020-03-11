@@ -3,31 +3,15 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Mediator/Startup.cs">
     <Files>
       <File FileName="Mediator/Startup.cs" Line="39" Column="10" IsPinned="True" />
-      <File FileName="Mediator/Mediator.csproj" Line="8" Column="3" />
-      <File FileName="Mediator/Presenter/Controller/CustomerController.cs" Line="1" Column="1" />
-      <File FileName="Mediator/Presenter/Controller/OrderController.cs" Line="1" Column="1" />
+      <File FileName="Mediator/Mediator.csproj" />
+      <File FileName="Mediator/Presenter/Controller/CustomerController.cs" />
+      <File FileName="Mediator/Presenter/Controller/OrderController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mediator" expanded="True">
             <Node name="Mediator" expanded="True">
-              <Node name="Application" expanded="True">
-                <Node name="UseCases" expanded="True">
-                  <Node name="Customers" expanded="True">
-                    <Node name="Command" expanded="True">
-                      <Node name="Create" expanded="True" />
-                    </Node>
-                  </Node>
-                </Node>
-              </Node>
-              <Node name="Domain" expanded="True">
-                <Node name="Entities" expanded="True" />
-              </Node>
-              <Node name="Presenter" expanded="True">
-                <Node name="Controller" expanded="True" />
-              </Node>
-              <Node name="Properties" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
               <Node name="Startup.cs" selected="True" />
             </Node>

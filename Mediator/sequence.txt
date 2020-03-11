@@ -1,0 +1,11 @@
+1. Add Package
+2. Create Folder : 
+Application --> Usecases
+Domain --> Entities
+Infrastructure --> Context, Migrations
+Presneter --> Controller -->
+3. Add every model in Entities
+4. Add DbContext
+5. Create Handler for each entities in Usecases
+6. Create Controller
+7. Add Services in startup

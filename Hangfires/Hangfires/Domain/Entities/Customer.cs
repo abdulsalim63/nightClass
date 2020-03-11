@@ -7,7 +7,7 @@ namespace Hangfires.Domain.Entities
     {
         public int id { get; set; }
         public string username { get; set; }
-        [JsonIgnore]
+        //[JsonIgnore]
         public string password { get; set; }
     }
 }
