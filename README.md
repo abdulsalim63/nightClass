@@ -35,3 +35,6 @@ Koh Indra n Salim Files
 
 ### Week 6
 #### [Microservices Intro](https://gist.github.com/mprambadi/0b35713ff311ba80eedfbd2e0946e638)
+#### [Docker Intro](https://gist.github.com/mprambadi/b6d82e52994ca2111d12435fd772b782)
+#### [API Gateway](https://gist.github.com/mprambadi/7377ac74c069fb2797cc53f3d8d9a5ce)
+#### [Swarm]()
