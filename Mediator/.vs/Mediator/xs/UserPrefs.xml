@@ -1,19 +1,42 @@
 ﻿<Properties StartupConfiguration="{565A1A93-1280-4003-BBD0-45F27919FA8F}|Default">
   <MonoDevelop.Ide.ItemProperties.Mediator PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mediator/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mediator/Application/UseCases/Customers/Command/Create/CreateCommand.cs">
     <Files>
       <File FileName="Mediator/Startup.cs" Line="39" Column="10" IsPinned="True" />
-      <File FileName="Mediator/Mediator.csproj" />
-      <File FileName="Mediator/Presenter/Controller/CustomerController.cs" />
-      <File FileName="Mediator/Presenter/Controller/OrderController.cs" />
+      <File FileName="Mediator/Application/UseCases/Customers/Command/Create/CreateCommand.cs" Line="12" Column="30" />
+      <File FileName="Mediator/Domain/Entities/Customer.cs" Line="8" Column="31" />
+      <File FileName="Mediator/Application/UseCases/Customers/Command/Create/CreateCommandHandler.cs" Line="26" Column="29" />
+      <File FileName="Mediator/Application/UseCases/Customers/Command/Update/UpdateCommand.cs" Line="11" Column="1" />
+      <File FileName="Mediator/Application/UseCases/Customers/Command/Update/UpdateCommandHandler.cs" Line="19" Column="73" />
+      <File FileName="Mediator/Domain/Entities/Parent.cs" Line="8" Column="18" />
+      <File FileName="Mediator/Presenter/Controller/CustomerController.cs" Line="9" Column="6" />
+      <File FileName="Mediator/Application/UseCases/Customers/Command/Create/CreateCommandValidator.cs" Line="5" Column="48" />
+      <File FileName="Mediator/Application/Models/Query.cs" Line="4" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mediator" expanded="True">
             <Node name="Mediator" expanded="True">
-              <Node name="appsettings.json" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Application" expanded="True">
+                <Node name="UseCases" expanded="True">
+                  <Node name="Customers" expanded="True">
+                    <Node name="Command" expanded="True">
+                      <Node name="Create" expanded="True">
+                        <Node name="CreateCommand.cs" selected="True" />
+                      </Node>
+                      <Node name="Update" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Presenter" expanded="True">
+                <Node name="Controller" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

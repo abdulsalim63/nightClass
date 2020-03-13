@@ -4,7 +4,13 @@ using Mediator.Domain.Entities;
 
 namespace Mediator.Application.UseCases.Customers //.Command.Create
 {
-    public class CreateCustomerCommand : Customer, IRequest<Customer>
+    public class CreateCustomerCommand : IRequest<Customer>
     {
+        public DataCustomer data { get; set; }
+    }
+
+    public class DataCustomer
+    {
+        public Customer attributes { get; set; }
     }
 }

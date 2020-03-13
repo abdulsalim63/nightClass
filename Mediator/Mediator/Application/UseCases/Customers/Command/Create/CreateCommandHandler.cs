@@ -18,9 +18,12 @@ namespace Mediator.Application.UseCases.Customers //.Command.Create
 
         public async Task<Customer> Handle(CreateCustomerCommand request, CancellationToken cancellationToken)
         {
-            _context.customers.Add(request);
+            var customer = request.data.attributes;
+            customer.created_at = 10;
+            customer.updated_at = 10;
+            _context.customers.Add(customer);
             await _context.SaveChangesAsync(cancellationToken);
-            return request;
+            return customer;
         }
     }
 }

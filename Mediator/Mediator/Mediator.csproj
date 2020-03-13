@@ -29,6 +29,7 @@
     <Folder Include="Application\UseCases\Orders\Command\Update\" />
     <Folder Include="Application\UseCases\Orders\Queries\Get\" />
     <Folder Include="Application\UseCases\Orders\Queries\GetbyId\" />
+    <Folder Include="Application\Models\" />
   </ItemGroup>
 
 

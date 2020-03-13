@@ -37,5 +37,11 @@ namespace Mediator.Presenter.Controller
                 id = Id
             }));
         }
+
+        [HttpPut("{Id}")]
+        public async Task<IActionResult> PutbyId(int Id, [FromBody] UpdateCustomerCommand request)
+        {
+            return Ok(await _mediatr.Send(new UpdateCustomerCommand() { id = Id, data = request.data }));
+        }
     }
 }
