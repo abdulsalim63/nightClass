@@ -38,3 +38,6 @@ Koh Indra n Salim Files
 #### [Docker Intro](https://gist.github.com/mprambadi/b6d82e52994ca2111d12435fd772b782)
 #### [API Gateway](https://gist.github.com/mprambadi/7377ac74c069fb2797cc53f3d8d9a5ce)
 #### [Container Orchestration](https://gist.github.com/mprambadi/c7ce47d9083d1bfcc602f7ad70fd8137)
+
+### Week 7
+#### [RPI](https://gist.github.com/mprambadi/200e45678a0bb8c86b8c0e08def949bd)
