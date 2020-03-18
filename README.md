@@ -41,3 +41,4 @@ Koh Indra n Salim Files
 
 ### Week 7
 #### [RPI](https://gist.github.com/mprambadi/200e45678a0bb8c86b8c0e08def949bd)
+#### [RabbitMQ](https://gist.github.com/mprambadi/38ea88a626a4e89dd6905479dd97aac6)
